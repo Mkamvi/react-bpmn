@@ -1,0 +1,13 @@
+
+.rb-container, .rb-canvas {
+  height: 100%;
+}
+
+.rb-container {
+  display: flex;
+}
+
+
+.rb-canvas {
+  flex: 1 1 200px;
+}
